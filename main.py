@@ -9,7 +9,6 @@ import re
 import warnings
 from urllib.parse import quote_plus
 from code_verification import code_verificate
-import traceback
 
 
 from downloader import Downloader
